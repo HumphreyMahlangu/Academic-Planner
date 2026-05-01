@@ -1,3 +1,3 @@
 # Academic-Planner
 
-![Uploading UML.png…]()
+![UML Diagram](docs/UML.png)
